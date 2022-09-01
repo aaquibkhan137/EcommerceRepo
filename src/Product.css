@@ -1,0 +1,33 @@
+#Main{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+margin-left:50px ;
+}
+#Image{
+    float: left;
+
+}
+
+#img:hover{
+    transform: scale(1.2);
+}
+#img{
+    width: 150px;
+    height: 200px;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-left: 80px;
+    
+}
+#info{
+    float: right;
+    margin-right: 50%;
+    margin-top: 80px;
+    width: 300px;
+}
+
+    
+    
+
+    
